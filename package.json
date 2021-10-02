@@ -1,9 +1,9 @@
 {
-  "name": "nestjs-dataloader",
+  "name": "@cobraz/nestjs-dataloader",
   "version": "2.0.6",
   "description": "A NestJS decorator for dataloader",
   "license": "MIT",
-  "repository": "https://github.com/krislefeber/nestjs-dataloader",
+  "repository": "github:cobraz/nestjs-dataloader",
   "author": "Kris Lefeber <krislefeber@gmail.com>",
   "main": "dist/index.js",
   "scripts": {
