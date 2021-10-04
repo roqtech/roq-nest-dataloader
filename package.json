@@ -1,6 +1,6 @@
 {
   "name": "@cobraz/nestjs-dataloader",
-  "version": "0.0.1-alpha",
+  "version": "0.0.3-alpha",
   "description": "A NestJS decorator for dataloader",
   "license": "MIT",
   "repository": "github:cobraz/nestjs-dataloader",
@@ -55,7 +55,7 @@
     "typeorm-factory": "^0.0.14",
     "typescript": "^4.4.3"
   },
-  "types": "index.d.ts",
+  "types": "dist/index.d.ts",
   "jest": {
     "transform": {
       "^.+\\.tsx?$": "ts-jest"
