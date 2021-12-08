@@ -1,6 +1,6 @@
 {
-  "name": "@cobraz/nestjs-dataloader",
-  "version": "0.0.3-alpha",
+  "name": "@roq/nestjs-dataloader",
+  "version": "0.0.1",
   "description": "A NestJS decorator for dataloader",
   "license": "MIT",
   "repository": "github:cobraz/nestjs-dataloader",
